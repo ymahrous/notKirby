@@ -2,9 +2,7 @@
 
 A small Kirby-style platformer that runs in the browser, built with [Kaboom.js](https://kaboomjs.com), TypeScript and Vite. Float around, inhale enemies and spit them back out as stars.
 
-**[Play it at not-kirby.vercel.app](https://not-kirby.vercel.app)**
-
-![Kirby in level 1, with a flame enemy, two birds and the exit door](docs/screenshot.png)
+**[Play it](https://not-kirby.vercel.app)**
 
 ## Controls
 
